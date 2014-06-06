@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 //get all regions and their ID (ICO)
 
